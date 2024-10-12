@@ -1,0 +1,108 @@
+C:\Users\HOGAR\source\repos\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\HOGAR\source\repos\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\HOGAR\source\repos\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\HOGAR\source\repos\Prototipo\obj\Debug\Prototipo.csproj.AssemblyReference.cache
+C:\Users\HOGAR\source\repos\Prototipo\obj\Debug\Prototipo.Form1.resources
+C:\Users\HOGAR\source\repos\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\HOGAR\source\repos\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.cache
+C:\Users\HOGAR\source\repos\Prototipo\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\HOGAR\source\repos\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\HOGAR\source\repos\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\HOGAR\source\repos\Prototipo\obj\Debug\Prototipo.Menu.resources
+C:\Users\HOGAR\source\repos\Prototipo\obj\Debug\Prototipo.menu_v.resources
+C:\Users\HOGAR\source\repos\Prototipo\obj\Debug\Prototipo.frm_productos.resources
+C:\Users\HOGAR\source\repos\Prototipo\obj\Debug\Prototipo.frm_ventas.resources
+C:\Users\HOGAR\source\repos\Prototipo\obj\Debug\Prototipo.frm_boleta.resources
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.csprojAssemblyReference.cache
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.Form1.resources
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.frm_boleta.resources
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.frm_productos.resources
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.Menu.resources
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.menu_v.resources
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.frm_ventas.resources
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.cache
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\HOGAR\Desktop\python\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\HOGAR\Desktop\python\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\HOGAR\Desktop\python\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\HOGAR\Desktop\python\Prototipo\obj\Debug\Prototipo.csproj.AssemblyReference.cache
+C:\Users\HOGAR\Desktop\python\Prototipo\obj\Debug\Prototipo.Form1.resources
+C:\Users\HOGAR\Desktop\python\Prototipo\obj\Debug\Prototipo.frm_boleta.resources
+C:\Users\HOGAR\Desktop\python\Prototipo\obj\Debug\Prototipo.frm_productos.resources
+C:\Users\HOGAR\Desktop\python\Prototipo\obj\Debug\Prototipo.Menu.resources
+C:\Users\HOGAR\Desktop\python\Prototipo\obj\Debug\Prototipo.menu_v.resources
+C:\Users\HOGAR\Desktop\python\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\HOGAR\Desktop\python\Prototipo\obj\Debug\Prototipo.frm_ventas.resources
+C:\Users\HOGAR\Desktop\python\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.cache
+C:\Users\HOGAR\Desktop\python\Prototipo\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\HOGAR\Desktop\python\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\HOGAR\Desktop\python\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.frm_info_venta.resources
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.FRM_MENU_ADMIN.resources
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.frm_reg_emp.resources
+C:\Users\PBP_Consultor\OneDrive\Escritorio\IDAT Ciclo 3\Herramientas de programacion\Prototipo\obj\Debug\Prototipo.frm_reg_prod.resources
+C:\Users\HOGAR\Desktop\python\Prototipo4\bin\Debug\Prototipo.exe.config
+C:\Users\HOGAR\Desktop\python\Prototipo4\bin\Debug\Prototipo.exe
+C:\Users\HOGAR\Desktop\python\Prototipo4\bin\Debug\Prototipo.pdb
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.csproj.AssemblyReference.cache
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.Form1.resources
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.frm_boleta.resources
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.frm_info_venta.resources
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.FRM_MENU_ADMIN.resources
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.frm_productos.resources
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.frm_reg_emp.resources
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.frm_reg_prod.resources
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.Menu.resources
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.menu_v.resources
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.frm_ventas.resources
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.csproj.GenerateResource.cache
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.exe
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.pdb
+C:\Users\HOGAR\Desktop\python\Prototipo4\obj\Debug\Prototipo.frm_olvidar.resources
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\bin\Debug\Prototipo.exe.config
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\bin\Debug\Prototipo.exe
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\bin\Debug\Prototipo.pdb
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.csproj.AssemblyReference.cache
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.Form1.resources
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_boleta.resources
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_info_venta.resources
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.FRM_MENU_ADMIN.resources
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_olvidar.resources
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_productos.resources
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_reg_emp.resources
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_reg_prod.resources
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.Menu.resources
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.menu_v.resources
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.Properties.Resources.resources
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_ventas.resources
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.csproj.GenerateResource.cache
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.exe
+D:\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.pdb
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.csproj.AssemblyReference.cache
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.exe
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.pdb
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\bin\Debug\Prototipo.exe.config
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\bin\Debug\Prototipo.exe
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\bin\Debug\Prototipo.pdb
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.Form1.resources
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_boleta.resources
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_info_venta.resources
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.FRM_MENU_ADMIN.resources
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_olvidar.resources
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_productos.resources
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_reg_emp.resources
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_reg_prod.resources
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.Menu.resources
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.menu_v.resources
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.Properties.Resources.resources
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.frm_ventas.resources
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.csproj.GenerateResource.cache
+D:\ARCHIVOS DEL DISCO D\IDAT\3 Ciclo\LA BODEGA LA TIENDITA\PROYECTO FINAL\APLICATIVO\Prototipo4\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
